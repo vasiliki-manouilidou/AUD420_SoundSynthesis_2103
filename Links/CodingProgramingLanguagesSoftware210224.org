@@ -15,7 +15,7 @@ https://xkcd.com/378/ nuff said
 - https://www.emacswiki.org/emacs/EmacsAndXEmacs
 - https://www.emacswiki.org/emacs/EmacsImplementations
 
-** Atom
+** _Atom_
 
 https://atom.io/
 
@@ -35,7 +35,7 @@ https://nodejs.org/en/
    :PROPERTIES:
    :DATE:     <2021-02-24 Wed 10:52>
    :END:
-*** SuperCollider
+*** _SuperCollider_
 
 - Home page :: https://supercollider.github.io/
 - Forum :: https://scsynth.org/
@@ -133,7 +133,7 @@ https://www.youtube.com/watch?v=CXrkq7u69vU
 
  https://tidalcycles.org/Welcome
 
-**** fox dot
+**** _fox dot_
 
  https://foxdot.org/
 
@@ -202,6 +202,11 @@ Synths & Things - Hydra-Editor introduction https://www.youtube.com/watch?v=FKBY
 NYC.  Zach Liebermann, Amit Pitaru
 
 https://sfpc.io/
+
+* Collaborative, networked live coding
+
+- Troop https://toplap.org/troop-a-collaborative-editor-for-live-coding/ (Φαίνεται να είναι εγκαταστήσιμο στα περισσότερα λειτουργικά. Δουλεύει σε βάση Python).
+- Extramuros (Eldad Tsabary) https://www.youtube.com/watch?v=ECEwTJWKEGc (Δεν είναι γνωστό κατά πόσο είναι εγκαταστήσιμο).
 
 * Other audio / music software of interest
   :PROPERTIES:
@@ -274,6 +279,7 @@ https://www.ableton.com/en/
   :DATE:     <2021-03-03 Wed 11:37>
   :END:
 
+- Raspberry Pi
 See also separate file: file:OpenSourceExperimentalTinyToolsRoundup.md
 
 
