@@ -1,6 +1,16 @@
 
 *Tools and methods for writing theses / coursework.*
 
+* Writing style
+
+https://owl.purdue.edu/owl/purdue_owl.html
+
+https://owl.purdue.edu/owl/general_writing/academic_writing/rhetorical_situation/index.html
+
+https://owl.purdue.edu/owl/general_writing/academic_writing/conciseness/index.html
+
+https://owl.purdue.edu/owl/general_writing/academic_writing/paramedic_method.html
+
 * _Github_
 
 * _Markdown_

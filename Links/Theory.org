@@ -1,3 +1,8 @@
 # 15 Mar 2021 15:07
+* Eben Moglen on Software
+  :PROPERTIES:
+  :DATE:     <2021-04-02 Fri 13:43>
+  :END:
 
-- Lev Manovic: The Language of New Media (Review) https://kairos.technorhetoric.net/7.1/reviews/dilger/index.htm
+- Software and Community in the Early 21st Century : https://www.youtube.com/watch?v=NorfgQlEJv8
+- Eben Moglen: How I discovered Free Software and met RMS : https://www.youtube.com/watch?v=uKxzK9xtSXM
