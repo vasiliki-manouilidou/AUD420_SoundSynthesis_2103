@@ -1,15 +1,24 @@
 
 *Tools and methods for writing theses / coursework.*
 
-* Writing style
+* Writing research papers - guidelines, style
 
+** Rhetorical Situation, Conciseness (from Purdue OWL)
 https://owl.purdue.edu/owl/purdue_owl.html
 
-https://owl.purdue.edu/owl/general_writing/academic_writing/rhetorical_situation/index.html
+ https://owl.purdue.edu/owl/general_writing/academic_writing/rhetorical_situation/index.html
 
 https://owl.purdue.edu/owl/general_writing/academic_writing/conciseness/index.html
 
 https://owl.purdue.edu/owl/general_writing/academic_writing/paramedic_method.html
+
+** IMRAD Paper structure, editage website
+
+https://www.editage.com/insights/in-which-section-of-the-paper-should-the-research-question-be-included
+
+https://www.editage.com/
+
+https://www.editage.com/insights/what-is-the-best-way-of-stating-the-background-of-a-study
 
 * _Github_
 
